@@ -1,0 +1,56 @@
+Added Component: Designator=POT1(RK09 vertical)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SR PASSIVES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R9011-1-5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "5k_SR PASSIVES_R9011-1-5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Added Component: Designator=POT2(RK09 vertical)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SR PASSIVES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "R9011-1-5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "5k_SR PASSIVES_R9011-1-5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R9011
+Add Pin To Net: Unknown Pin: Pin EH1-1
+Add Pin To Net: Unknown Pin: Pin EH1-2
+Add Pin To Net: Unknown Pin: Pin EH1-3
+Add Pin To Net: Unknown Pin: Pin EH2-1
+Add Pin To Net: Unknown Pin: Pin EH2-2
+Add Pin To Net: Unknown Pin: Pin EH2-3
+Add Pin To Net: Unknown Pin: Pin EH3-1
+Add Pin To Net: Unknown Pin: Pin EH3-2
+Add Pin To Net: Unknown Pin: Pin EH4-1
+Add Pin To Net: Unknown Pin: Pin EH4-2
+Add Pin To Net: Unknown Pin: Pin EH4-3
+Add Pin To Net: Unknown Pin: Pin EH5-1
+Add Pin To Net: Unknown Pin: Pin EH5-2
+Add Pin To Net: Unknown Pin: Pin EH5-3
+Added Pin To Net: NetName=5V Pin=POT1-1
+Added Pin To Net: NetName=GND Pin=POT1-3
+Added Pin To Net: NetName=5V Pin=POT2-1
+Added Pin To Net: NetName=GND Pin=POT2-3
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R2-3
+Added Pin To Net: NetName=NetPOT1_2 Pin=POT1-2
+Added Pin To Net: NetName=NetPOT1_2 Pin=R6-1
+Added Net: Name=NetPOT1_2
+Added Pin To Net: NetName=NetPOT2_2 Pin=POT2-2
+Added Pin To Net: NetName=NetPOT2_2 Pin=R13-1
+Added Net: Name=NetPOT2_2
+Add Class Member: Failed to add class member : Component EH1 MC 1,5/3-G-3,5
+Add Class Member: Failed to add class member : Component EH2 MC 1,5/3-G-3,5
+Add Class Member: Failed to add class member : Component EH3 MC 1,5/3-G-3,5
+Add Class Member: Failed to add class member : Component EH4 MC 1,5/3-G-3,5
+Add Class Member: Failed to add class member : Component EH5 MC 1,5/3-G-3,5
+Added Member To Class: ClassName=GrainDryer Member=Component POT1 5k
+Added Member To Class: ClassName=GrainDryer Member=Component POT2 5k
+Add Class Member: Failed to add class member : Component R2 5k

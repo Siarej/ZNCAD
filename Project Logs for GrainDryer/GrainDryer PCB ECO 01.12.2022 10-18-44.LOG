@@ -1,0 +1,705 @@
+Added Component: Designator=C1(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C1206C471J5GAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "470p_50V_KEMET_C1206C471J5GAC7800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470p_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C7(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=CT1(7243)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPSD107K020R0085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100u_20V_AVX_TPSD107K020R0085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u_20V"; VariantName = "[No Variations]"
+Added Component: Designator=CT2(7243)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCTS00014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPSD107K010R0065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100u_10V_AVX_TPSD107K010R0065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u_10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=D1(CASE403A-03)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZDS000019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MBRS1100T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "ON SEMICONDUCTOR_MBRS1100T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MBRS1100T"; VariantName = "[No Variations]"
+Added Component: Designator=D2(MICROMELF)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZDS000055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BAS386-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "VISHAY_BAS386-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BAS386"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(SOD80D)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZDS000064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BZV55-C5V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "NXP_BZV55-C5V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1097202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "BZV55-C5V1"; VariantName = "[No Variations]"
+Added Component: Designator=EH6(DG128-5.0-03P14)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZE0000057"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DEGSON ELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DG128-5.0-03P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "DEGSON ELECTRONICS_DG128-5.0-03P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DG128-5.0-03P14"; VariantName = "[No Variations]"
+Added Component: Designator=EH7(2xMKDSN1.5)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "PHOENIX CONTACT_1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MKDSN 1,5/2-5,08"; VariantName = "[No Variations]"
+Added Component: Designator=EH8(2xMKDSN1.5)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "PHOENIX CONTACT_1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MKDSN 1,5/2-5,08"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SRR0604)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZLS000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SRR0604-221KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Current"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "220uH_BOURNS_SRR0604-221KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uH"; VariantName = "[No Variations]"
+Added Component: Designator=N1(LED0603GREEN)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZNS000027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LITE-ON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "LITE-ON_LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Added Component: Designator=N2(LED1606GREEN)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZNS000019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "25m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KINGBRIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "KINGBRIGHT_KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Added Component: Designator=N3(LED1606GREEN)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZNS000019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "25m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KINGBRIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "KINGBRIGHT_KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Added Component: Designator=P1(RY6100XX)
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SCHRACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RY610005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Allied"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "70225359"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RY610005"; VariantName = "[No Variations]"
+Added Component: Designator=R1(2512R)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RL2512JK-070R02L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "0R33_YAGEO_RL2512JK-070R02L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R33"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R9011
+Added Component: Designator=R3(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R9011
+Added Component: Designator=R6(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10R_PANASONIC_ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "1k_YAGEO_RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10R_PANASONIC_ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(1206R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ8ENF3601V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "3k6_PANASONIC_ERJ8ENF3601V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k6"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R9011
+Added Component: Designator=R13(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10R_PANASONIC_ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(1206R)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROYAL OHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1206S4F0122T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "1k2_ROYAL OHM_1206S4F0122T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k2"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "1k_YAGEO_RC0603JR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10R_PANASONIC_ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10R_PANASONIC_ERJ3EKF10R0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "510R_YAGEO_RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510R"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "510R_YAGEO_RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510R"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW6x6x13)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NINIGI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "NINIGI_TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6x6x13"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW6x6x13)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NINIGI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "NINIGI_TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6x6x13"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW6x6x13)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NINIGI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "NINIGI_TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6x6x13"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW6x6x13)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NINIGI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "NINIGI_TACT-613N-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6x6x13"; VariantName = "[No Variations]"
+Added Component: Designator=T1(SOT23)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3,6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INTERNATIONAL RECTIFIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IRLML0040TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "INTERNATIONAL RECTIFIER_IRLML0040TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IRLML0040TRPBF"; VariantName = "[No Variations]"
+Added Component: Designator=T2(SOT23)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3,6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "INTERNATIONAL RECTIFIER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IRLML0040TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "INTERNATIONAL RECTIFIER_IRLML0040TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IRLML0040TRPBF"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LCDDSP)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WINSTAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WH1602A-NYA-ET (NYG)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "WINSTAR_WH1602A-NYA-ET (NYG)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LCD-CHAR 2x16"; VariantName = "[No Variations]"
+Added Component: Designator=U2(so8)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZUS000391"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC34063ABD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "STMICROELECTRONICS_MC34063ABD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC34063ABD"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SO8)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX6675"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "Maxim Integrated_MAX6675"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MAX6675"; VariantName = "[No Variations]"
+Added Component: Designator=U4(LQFP48(0.5))
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F030C6T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "STMICROELECTRONICS_STM32F030C6T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "STM32F030C6T6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=5V Pin=CT2-1
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=5V Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R15-1
+Added Pin To Net: NetName=5V Pin=R16-1
+Added Pin To Net: NetName=5V Pin=R17-1
+Added Pin To Net: NetName=5V Pin=R25-1
+Added Pin To Net: NetName=5V Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U3-4
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=CT1-1
+Added Pin To Net: NetName=12V Pin=D2-1
+Added Pin To Net: NetName=12V Pin=EH7-2
+Added Pin To Net: NetName=12V Pin=N1-2
+Added Pin To Net: NetName=12V Pin=P1-A1
+Added Pin To Net: NetName=12V Pin=R1-1
+Added Pin To Net: NetName=12V Pin=U2-6
+Added Net: Name=12V
+Added Pin To Net: NetName=CS_Termopara Pin=U3-7
+Added Net: Name=CS_Termopara
+Added Pin To Net: NetName=DB4 Pin=U1-11
+Added Net: Name=DB4
+Added Pin To Net: NetName=DB5 Pin=U1-12
+Added Net: Name=DB5
+Added Pin To Net: NetName=DB6 Pin=U1-13
+Added Net: Name=DB6
+Added Pin To Net: NetName=DB7 Pin=U1-14
+Added Net: Name=DB7
+Added Pin To Net: NetName=EN Pin=U1-6
+Added Net: Name=EN
+Added Pin To Net: NetName=gaz Pin=R20-1
+Added Net: Name=gaz
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=CT1-2
+Added Pin To Net: NetName=GND Pin=CT2-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=DZ1-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=U3-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=P1-A2
+Added Pin To Net: NetName=NetD2_2 Pin=R18-2
+Added Pin To Net: NetName=NetD2_2 Pin=T2-3
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetDZ1_1 Pin=DZ1-1
+Added Pin To Net: NetName=NetDZ1_1 Pin=R7-2
+Added Pin To Net: NetName=NetDZ1_1 Pin=R8-2
+Added Net: Name=NetDZ1_1
+Added Pin To Net: NetName=NetEH6_1 Pin=EH6-1
+Added Pin To Net: NetName=NetEH6_1 Pin=P1-14
+Added Net: Name=NetEH6_1
+Added Pin To Net: NetName=NetEH6_2 Pin=EH6-2
+Added Pin To Net: NetName=NetEH6_2 Pin=P1-11
+Added Net: Name=NetEH6_2
+Added Pin To Net: NetName=NetEH6_3 Pin=EH6-3
+Added Pin To Net: NetName=NetEH6_3 Pin=P1-12
+Added Net: Name=NetEH6_3
+Added Pin To Net: NetName=NetEH7_1 Pin=EH7-1
+Added Pin To Net: NetName=NetEH7_1 Pin=T1-3
+Added Net: Name=NetEH7_1
+Added Pin To Net: NetName=NetEH8_1 Pin=EH8-1
+Added Pin To Net: NetName=NetEH8_1 Pin=U3-3
+Added Net: Name=NetEH8_1
+Added Pin To Net: NetName=NetEH8_2 Pin=EH8-2
+Added Pin To Net: NetName=NetEH8_2 Pin=U3-2
+Added Net: Name=NetEH8_2
+Added Pin To Net: NetName=NetN1_1 Pin=N1-1
+Added Pin To Net: NetName=NetN1_1 Pin=R18-1
+Added Net: Name=NetN1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-7
+Added Pin To Net: NetName=NetR1_2 Pin=U2-8
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_3 Pin=U1-3
+Added Net: Name=NetR2_3
+Added Pin To Net: NetName=NetR5_3 Pin=R6-1
+Added Net: Name=NetR5_3
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R14-1
+Added Pin To Net: NetName=NetR9_1 Pin=U2-5
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR12_3 Pin=R13-1
+Added Net: Name=NetR12_3
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=R21-1
+Added Pin To Net: NetName=NetR19_2 Pin=T1-1
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R22-1
+Added Pin To Net: NetName=NetR20_2 Pin=T2-1
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=OneWire Pin=R8-1
+Added Net: Name=OneWire
+Added Pin To Net: NetName=OnOffSyrena Pin=C11-1
+Added Pin To Net: NetName=OnOffSyrena Pin=R17-2
+Added Pin To Net: NetName=OnOffSyrena Pin=SW3-2
+Added Pin To Net: NetName=OnOffSyrena Pin=SW3-2
+Added Net: Name=OnOffSyrena
+Added Pin To Net: NetName=rpmMieszadlo Pin=R10-1
+Added Net: Name=rpmMieszadlo
+Added Pin To Net: NetName=rpmSilnik Pin=R3-1
+Added Net: Name=rpmSilnik
+Added Pin To Net: NetName=rpmSlimak Pin=R4-1
+Added Net: Name=rpmSlimak
+Added Pin To Net: NetName=rpmWiatrak Pin=R11-1
+Added Net: Name=rpmWiatrak
+Added Pin To Net: NetName=RS Pin=U1-4
+Added Net: Name=RS
+Added Pin To Net: NetName=SCK Pin=U3-8
+Added Net: Name=SCK
+Added Pin To Net: NetName=Studzenie Pin=C10-1
+Added Pin To Net: NetName=Studzenie Pin=R16-2
+Added Pin To Net: NetName=Studzenie Pin=SW2-2
+Added Pin To Net: NetName=Studzenie Pin=SW2-2
+Added Net: Name=Studzenie
+Added Pin To Net: NetName=Suszenie Pin=C9-1
+Added Pin To Net: NetName=Suszenie Pin=R15-2
+Added Pin To Net: NetName=Suszenie Pin=SW1-2
+Added Pin To Net: NetName=Suszenie Pin=SW1-2
+Added Net: Name=Suszenie
+Added Pin To Net: NetName=Syrena Pin=R19-1
+Added Net: Name=Syrena
+Added Pin To Net: NetName=Tstudzenia Pin=C7-1
+Added Pin To Net: NetName=Tstudzenia Pin=R13-2
+Added Net: Name=Tstudzenia
+Added Pin To Net: NetName=Tsuszenia Pin=C3-1
+Added Pin To Net: NetName=Tsuszenia Pin=R6-2
+Added Net: Name=Tsuszenia
+Added Class: Name=GrainDryer
+Added Room: Name=GrainDryer
