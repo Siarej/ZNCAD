@@ -1,0 +1,21 @@
+Added Component: Designator=U1(LCD2004)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DISPLAY ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DEM16216SYH-LY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "DISPLAY ELEKTRONIK_DEM16216SYH-LY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DEM16216SYH-LY"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=NetPOT1_2 Pin=U1-3
+Added Pin To Net: NetName=RS Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=EN Pin=U1-6
+Added Pin To Net: NetName=DB4 Pin=U1-11
+Added Pin To Net: NetName=DB5 Pin=U1-12
+Added Pin To Net: NetName=DB6 Pin=U1-13
+Added Pin To Net: NetName=DB7 Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=3V3 Pin=U1-16
+Added Member To Class: ClassName=GrainDryer Member=Component U1 DEM16216SYH-LY

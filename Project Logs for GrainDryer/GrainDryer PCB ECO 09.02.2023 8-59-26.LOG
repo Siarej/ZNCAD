@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=X Net Class Member=CS_Termopara
+Removed Member From Class: ClassName=X Net Class Member=MISO
+Removed Member From Class: ClassName=X Net Class Member=SCK
+Added Member To Class: ClassName=X Net Class Member=Wire 3V3
+Added Member To Class: ClassName=X Net Class Member=Wire GND
+Added Member To Class: ClassName=X Net Class Member=Wire OnOffSyrena
+Added Member To Class: ClassName=X Net Class Member=Wire rpmMieszadlo
+Added Member To Class: ClassName=X Net Class Member=Wire rpmSilnik

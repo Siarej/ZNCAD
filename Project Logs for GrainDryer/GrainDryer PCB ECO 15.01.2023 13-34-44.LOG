@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=CT2-1
+Removed Pin From Net: NetName=5V Pin=L1-1
+Removed Pin From Net: NetName=5V Pin=R8-2
+Added Component: Designator=5V(TP3)
+Add component (AddParameter): Name = "Component Type"; Value = "REF"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(TIN2)
+Add component (AddParameter): Name = "Component Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=JP1-2
+Added Pin To Net: NetName=Net5V_1 Pin=5V-1
+Added Pin To Net: NetName=Net5V_1 Pin=CT2-1
+Added Pin To Net: NetName=Net5V_1 Pin=JP1-1
+Added Pin To Net: NetName=Net5V_1 Pin=L1-1
+Added Pin To Net: NetName=Net5V_1 Pin=R8-2
+Added Net: Name=Net5V_1
+Added Member To Class: ClassName=GrainDryer Member=Component 5V TP_THT
+Added Member To Class: ClassName=GrainDryer Member=Component JP1 JP_2H_NO

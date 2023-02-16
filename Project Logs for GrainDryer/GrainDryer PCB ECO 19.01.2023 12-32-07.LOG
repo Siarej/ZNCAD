@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=N3 Old Footprint=LED1606GREEN New Footprint=LED0603GREEN
+Change Component Comment : Designator=N3 Old Comment=KPA-1606ZGC New Comment=LTST-C191KGKT
+Change component parameters: Designator = "N3" ("N3"); Footprint = "LED1606GREEN"; UniqueID = "\OBEZZQZX" ("\OBEZZQZX")
+Change component parameters (AddParameter): Name = "AE ERP"; Value = "ZNS000027"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "20m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "LITE-ON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pick and Place"; Value = "LITE-ON_LTST-C191KGKT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"

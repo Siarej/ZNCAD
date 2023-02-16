@@ -1,0 +1,16 @@
+Added Component: Designator=EH10(SIP4)
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DS1021-1*4SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "CONNFLY_DS1021-1*4SF1-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4-PIN Header"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=EH10-3
+Added Pin To Net: NetName=GND Pin=EH10-4
+Added Pin To Net: NetName=SWCLK Pin=EH10-1
+Added Pin To Net: NetName=SWCLK Pin=U4-37
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=EH10-2
+Added Pin To Net: NetName=SWDIO Pin=U4-34
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=GrainDryer Member=Component EH10 4-PIN Header

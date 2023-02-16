@@ -1,0 +1,39 @@
+Added Component: Designator=R23(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "270R_YAGEO_RC0603JR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Added Component: Designator=R24(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "270R_YAGEO_RC0603JR-07270RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000195"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07150RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "150R_YAGEO_RC0603JR-07150RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R23-1
+Added Pin To Net: NetName=CS_Termopara Pin=R23-2
+Added Pin To Net: NetName=3V3 Pin=R24-1
+Added Pin To Net: NetName=SCK Pin=R24-2
+Added Pin To Net: NetName=3V3 Pin=R25-1
+Added Pin To Net: NetName=MISO Pin=R25-2
+Added Member To Class: ClassName=GrainDryer Member=Component R23 270R
+Added Member To Class: ClassName=GrainDryer Member=Component R24 270R
+Added Member To Class: ClassName=GrainDryer Member=Component R25 150R

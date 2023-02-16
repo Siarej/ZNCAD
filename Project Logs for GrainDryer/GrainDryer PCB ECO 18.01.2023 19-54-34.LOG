@@ -1,0 +1,242 @@
+Removed Pin From Net: NetName=SyrenaStatus Pin=N2-1
+Removed Pin From Net: NetName=5V Pin=R21-2
+Removed Pin From Net: NetName=5V Pin=R23-1
+Removed Member From Class: ClassName=GrainDryer Member=R23
+Change Component Comment : Designator=R21 Old Comment=510R New Comment=10k
+Change Component Designator: OldDesignator=5V NewDesignator=1
+Change Component Designator: OldDesignator=EH1 NewDesignator=EH2
+Change Component Designator: OldDesignator=EH2 NewDesignator=EH3
+Change Component Designator: OldDesignator=EH3 NewDesignator=EH4
+Change Component Designator: OldDesignator=EH4 NewDesignator=EH5
+Change Component Designator: OldDesignator=EH5 NewDesignator=EH6
+Change Component Designator: OldDesignator=EH6 NewDesignator=EH7
+Change Component Designator: OldDesignator=EH7 NewDesignator=EH9
+Change Component Designator: OldDesignator=N1 NewDesignator=N2
+Change Component Designator: OldDesignator=N3 NewDesignator=N1
+Change Component Designator: OldDesignator=POT1 NewDesignator=POT2
+Change Component Designator: OldDesignator=POT2 NewDesignator=POT3
+Change Component Designator: OldDesignator=POT3 NewDesignator=POT1
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R22 NewDesignator=R2
+Change Component Designator: OldDesignator=T1 NewDesignator=T2
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0603R"; UniqueID = "\BOIIXDAW" ("\BOIIXDAW")
+Change component parameters (AddParameter): Name = "AE ERP"; Value = "ZRS000147"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pick and Place"; Value = "10k_YAGEO_RC0603JR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603C)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "100n_50V_MULTICOMP_MC0603B104K500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603H)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C100J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10p_50V_KEMET_C0603C100J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0603H)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZCS000060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0603C100J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "10p_50V_KEMET_C0603C100J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10p_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=EH1(2xMKDSN1.5)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "PHOENIX CONTACT_1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MKDSN 1,5/2-5,08"; VariantName = "[No Variations]"
+Added Component: Designator=F1(20x5mm fuse holder)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "multicom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC000827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "5A_multicom_MC000827"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5A"; VariantName = "[No Variations]"
+Added Component: Designator=G1(XTAL2520)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "32.00M-SMDXT224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "YIC_32.00M-SMDXT224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32MHz"; VariantName = "[No Variations]"
+Added Component: Designator=L2(1206L)
+Add component (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BLM31PG601SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum DC Current"; Value = "1,5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "600R@100MHz_MURATA_BLM31PG601SN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "600R@100MHz"; VariantName = "[No Variations]"
+Added Component: Designator=N3(LED1606GREEN)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZNS000019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "25m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KINGBRIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "KINGBRIGHT_KPA-1606ZGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "KPA-1606ZGC"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0603R)
+Add component (AddParameter): Name = "AE ERP"; Value = "ZRS000155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pick and Place"; Value = "510R_YAGEO_RC0603JR-07510RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "510R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=5V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=EH1-1
+Added Pin To Net: NetName=12V Pin=F1-2
+Added Pin To Net: NetName=GND Pin=G1-2
+Added Pin To Net: NetName=GND Pin=G1-4
+Added Pin To Net: NetName=5V Pin=L2-1
+Added Pin To Net: NetName=SyrenaStatus Pin=N3-1
+Added Pin To Net: NetName=5V Pin=R21-1
+Added Pin To Net: NetName=5V Pin=R22-2
+Added Pin To Net: NetName=5V Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=Suszenie Pin=U4-10
+Added Pin To Net: NetName=Studzenie Pin=U4-11
+Added Pin To Net: NetName=OnOffSyrena Pin=U4-12
+Added Pin To Net: NetName=SyrenaStatus Pin=U4-13
+Added Pin To Net: NetName=rpmSilnik Pin=U4-14
+Added Pin To Net: NetName=rpmSlimak Pin=U4-15
+Added Pin To Net: NetName=rpmMieszadlo Pin=U4-16
+Added Pin To Net: NetName=rpmWiatrak Pin=U4-17
+Added Pin To Net: NetName=Tstudzenia Pin=U4-18
+Added Pin To Net: NetName=Tsuszenia Pin=U4-19
+Added Pin To Net: NetName=RS Pin=U4-21
+Added Pin To Net: NetName=EN Pin=U4-22
+Added Pin To Net: NetName=GND Pin=U4-23
+Added Pin To Net: NetName=5V Pin=U4-24
+Added Pin To Net: NetName=DB7 Pin=U4-25
+Added Pin To Net: NetName=DB6 Pin=U4-26
+Added Pin To Net: NetName=DB5 Pin=U4-27
+Added Pin To Net: NetName=DB4 Pin=U4-28
+Added Pin To Net: NetName=gaz Pin=U4-29
+Added Pin To Net: NetName=Syrena Pin=U4-30
+Added Pin To Net: NetName=OneWire Pin=U4-31
+Added Pin To Net: NetName=CS_Termopara Pin=U4-38
+Added Pin To Net: NetName=SCK Pin=U4-39
+Added Pin To Net: NetName=MISO Pin=U4-40
+Added Pin To Net: NetName=5V Pin=U4-48
+Change Net Name : Old Net Name=5V New Net Name=3V3
+Change Net Name : Old Net Name=Net5V_1 New Net Name=Net1_1
+Change Net Name : Old Net Name=NetEH6_1 New Net Name=NetEH7_1
+Change Net Name : Old Net Name=NetEH6_2 New Net Name=NetEH7_2
+Change Net Name : Old Net Name=NetEH6_3 New Net Name=NetEH7_3
+Change Net Name : Old Net Name=NetEH7_1 New Net Name=NetEH9_1
+Change Net Name : Old Net Name=NetN1_1 New Net Name=NetN2_1
+Change Net Name : Old Net Name=NetN3_2 New Net Name=NetN1_2
+Change Net Name : Old Net Name=NetPOT1_2 New Net Name=NetPOT2_2
+Change Net Name : Old Net Name=NetPOT2_2 New Net Name=NetPOT3_2
+Change Net Name : Old Net Name=NetPOT3_2 New Net Name=NetPOT1_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR17_2
+Added Pin To Net: NetName=NetEH1_2 Pin=EH1-2
+Added Pin To Net: NetName=NetEH1_2 Pin=F1-1
+Added Net: Name=NetEH1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=U4-9
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetN3_2 Pin=N3-2
+Added Pin To Net: NetName=NetN3_2 Pin=R22-1
+Added Net: Name=NetN3_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=SW4-2
+Added Pin To Net: NetName=NetR21_2 Pin=SW4-2
+Added Pin To Net: NetName=NetR21_2 Pin=U4-7
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=XI Pin=C17-1
+Added Pin To Net: NetName=XI Pin=G1-1
+Added Pin To Net: NetName=XI Pin=U4-5
+Added Net: Name=XI
+Added Pin To Net: NetName=XO Pin=C16-1
+Added Pin To Net: NetName=XO Pin=G1-3
+Added Pin To Net: NetName=XO Pin=U4-6
+Added Net: Name=XO
+Added Member To Class: ClassName=GrainDryer Member=Component C12 100n_50V
+Added Member To Class: ClassName=GrainDryer Member=Component C13 100n_50V
+Added Member To Class: ClassName=GrainDryer Member=Component C14 100n_50V
+Added Member To Class: ClassName=GrainDryer Member=Component C15 100n_50V
+Added Member To Class: ClassName=GrainDryer Member=Component C16 10p_50V
+Added Member To Class: ClassName=GrainDryer Member=Component C17 10p_50V
+Added Member To Class: ClassName=GrainDryer Member=Component EH9 MKDSN 1,5/2-5,08
+Added Member To Class: ClassName=GrainDryer Member=Component F1 5A
+Added Member To Class: ClassName=GrainDryer Member=Component G1 32MHz
+Added Member To Class: ClassName=GrainDryer Member=Component L2 600R@100MHz
+Added Member To Class: ClassName=GrainDryer Member=Component R22 510R

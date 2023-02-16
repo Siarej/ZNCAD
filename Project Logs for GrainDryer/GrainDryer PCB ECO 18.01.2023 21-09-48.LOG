@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetEH8_2 Pin=U3-2
+Removed Pin From Net: NetName=NetEH8_1 Pin=U3-3
+Added Pin To Net: NetName=NetEH8_1 Pin=U3-2
+Added Pin To Net: NetName=NetEH8_2 Pin=U3-3
+Added Member To Class: ClassName=GrainDryer Member=Component EH1 MKDSN 1,5/2-5,08
+Added Member To Class: ClassName=GrainDryer Member=Component EH2 MC 1,5/3-G-3,5
+Added Member To Class: ClassName=GrainDryer Member=Component EH4 MC 1,5/3-G-3,5
+Added Member To Class: ClassName=GrainDryer Member=Component EH5 MC 1,5/3-G-3,5
+Added Member To Class: ClassName=GrainDryer Member=Component EH7 DG128-5.0-03P14
+Added Member To Class: ClassName=GrainDryer Member=Component N1 KPA-1606ZGC
+Added Member To Class: ClassName=GrainDryer Member=Component N2 LTST-C191KGKT
+Added Member To Class: ClassName=GrainDryer Member=Component N3 KPA-1606ZGC
+Added Member To Class: ClassName=GrainDryer Member=Component POT2 5k
+Added Member To Class: ClassName=GrainDryer Member=Component POT3 5k
+Added Member To Class: ClassName=GrainDryer Member=Component R17 10R
+Added Member To Class: ClassName=GrainDryer Member=Component R19 10k
+Added Member To Class: ClassName=GrainDryer Member=Component R22 510R
+Added Member To Class: ClassName=GrainDryer Member=Component T2 IRLML0040TRPBF

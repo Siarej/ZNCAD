@@ -1,0 +1,22 @@
+Change Component Comment : Designator=R23 Old Comment=270R New Comment=150R
+Change Component Comment : Designator=R24 Old Comment=270R New Comment=150R
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0603R"; UniqueID = "\MQPGRMXY" ("\MQPGRMXY")
+Change component parameters (AddParameter): Name = "AE ERP"; Value = "ZRS000195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07150RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pick and Place"; Value = "150R_YAGEO_RC0603JR-07150RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "0603R"; UniqueID = "\FDRVVACD" ("\FDRVVACD")
+Change component parameters (AddParameter): Name = "AE ERP"; Value = "ZRS000195"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-07150RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pick and Place"; Value = "150R_YAGEO_RC0603JR-07150RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150R"; VariantName = "[No Variations]"

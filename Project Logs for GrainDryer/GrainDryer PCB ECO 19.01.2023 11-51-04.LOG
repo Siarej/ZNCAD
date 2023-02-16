@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=POT1-3
+Change Component Footprint: Designator=POT1 Old Footprint=RK09 vertical New Footprint=3312J
+Change Component Comment : Designator=POT1 Old Comment=5k New Comment=1k
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change component parameters: Designator = "POT1" ("POT1"); Footprint = "RK09 vertical"; UniqueID = "\NUVVQIIT" ("\NUVVQIIT")
+Change component parameters (AddParameter): Name = "AE ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "3312J-1-102E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pick and Place"; Value = "1k_BOURNS_3312J-1-102E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=POT1-2
+Added Pin To Net: NetName=NetPOT1_3 Pin=POT1-3
+Added Pin To Net: NetName=NetPOT1_3 Pin=U1-3
+Added Net: Name=NetPOT1_3

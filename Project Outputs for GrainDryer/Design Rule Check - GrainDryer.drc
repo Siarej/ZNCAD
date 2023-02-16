@@ -1,0 +1,19 @@
+Protel Design System Design Rule Check
+PCB File : D:\Study\Politechnika\9EiT\ZNCAD\projekt\pcb\GrainDryer\GrainDryer.PcbDoc
+Date     : 09.02.2023
+Time     : 8:41:24
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: GND In net GND On Bottom Layer
+   Polygon named: GND In net GND On Top Layer
+   Polygon named: GND In net GND On Top Layer
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U4_U3_MatchLengthsClass'))
+   Violation between Matched Net Lengths: Between xSignal(CS_Termopara_PP1) And xSignal(SCK_PP1) Actual Length Difference against xSignal SCK_PP1 is: 6.531mm, Length Tolerance : 2.54mm.
+   Violation between Matched Net Lengths: Between xSignal(MISO_PP1) And xSignal(SCK_PP1) Actual Length Difference against xSignal SCK_PP1 is: 8.185mm, Length Tolerance : 2.54mm.
+Rule Violations :2
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02
